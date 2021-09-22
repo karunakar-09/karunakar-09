@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karunakar-09
 - 👀 I’m interested in ...software engineering
-- 🌱 I’m currently learning ...b.tech
+- 🌱 I’m currently learning ...java developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...karunakardavidson9@gmail.com
 
